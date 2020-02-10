@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4509c960c7c55ab3be5faa2b5ee55448",
+    "revision": "28f497fd74ba4c41d9a69247508e3c5f",
     "url": "/Wolfy/index.html"
   },
   {
-    "revision": "700f1278b4af1e6ce320",
-    "url": "/Wolfy/static/css/main.b3f58e3a.chunk.css"
+    "revision": "f2f380318e3d6017621e",
+    "url": "/Wolfy/static/css/main.727d2a0c.chunk.css"
   },
   {
     "revision": "e4b99eca64ca20447bba",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Wolfy/static/js/2.3a931138.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db967af966158f07fbfe",
-    "url": "/Wolfy/static/js/3.fc26ec0e.chunk.js"
+    "revision": "361ca80e4576a41f4c13",
+    "url": "/Wolfy/static/js/3.227fad38.chunk.js"
   },
   {
     "revision": "c80f8f3c430ab7487dc3",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Wolfy/static/js/5.78587df2.chunk.js"
   },
   {
-    "revision": "91b76b50c846e825f0ef",
-    "url": "/Wolfy/static/js/6.16102ff5.chunk.js"
+    "revision": "381710b5307d60096441",
+    "url": "/Wolfy/static/js/6.9585c723.chunk.js"
   },
   {
-    "revision": "700f1278b4af1e6ce320",
+    "revision": "f2f380318e3d6017621e",
     "url": "/Wolfy/static/js/main.12aad567.chunk.js"
   },
   {
-    "revision": "2938bbc936d8f9c4b0f9",
-    "url": "/Wolfy/static/js/runtime-main.d784a1ee.js"
+    "revision": "c068e772ce02d16dbae4",
+    "url": "/Wolfy/static/js/runtime-main.594a02db.js"
   },
   {
     "revision": "2f5b01b916be1db348cda8856a338269",
