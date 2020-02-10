@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Wolfy/static/css/main.b3f58e3a.chunk.css",
+    "main.js": "/Wolfy/static/js/main.12aad567.chunk.js",
+    "main.js.map": "/Wolfy/static/js/main.12aad567.chunk.js.map",
+    "runtime-main.js": "/Wolfy/static/js/runtime-main.d784a1ee.js",
+    "runtime-main.js.map": "/Wolfy/static/js/runtime-main.d784a1ee.js.map",
+    "static/js/2.3a931138.chunk.js": "/Wolfy/static/js/2.3a931138.chunk.js",
+    "static/js/2.3a931138.chunk.js.map": "/Wolfy/static/js/2.3a931138.chunk.js.map",
+    "static/js/3.fc26ec0e.chunk.js": "/Wolfy/static/js/3.fc26ec0e.chunk.js",
+    "static/js/3.fc26ec0e.chunk.js.map": "/Wolfy/static/js/3.fc26ec0e.chunk.js.map",
+    "static/js/4.39b7358d.chunk.js": "/Wolfy/static/js/4.39b7358d.chunk.js",
+    "static/js/4.39b7358d.chunk.js.map": "/Wolfy/static/js/4.39b7358d.chunk.js.map",
+    "static/js/5.78587df2.chunk.js": "/Wolfy/static/js/5.78587df2.chunk.js",
+    "static/js/5.78587df2.chunk.js.map": "/Wolfy/static/js/5.78587df2.chunk.js.map",
+    "static/js/6.16102ff5.chunk.js": "/Wolfy/static/js/6.16102ff5.chunk.js",
+    "static/js/6.16102ff5.chunk.js.map": "/Wolfy/static/js/6.16102ff5.chunk.js.map",
+    "index.html": "/Wolfy/index.html",
+    "precache-manifest.0a295eb71c9a2cdf53287adc342e1ba1.js": "/Wolfy/precache-manifest.0a295eb71c9a2cdf53287adc342e1ba1.js",
+    "service-worker.js": "/Wolfy/service-worker.js",
+    "static/css/main.b3f58e3a.chunk.css.map": "/Wolfy/static/css/main.b3f58e3a.chunk.css.map",
+    "static/js/2.3a931138.chunk.js.LICENSE.txt": "/Wolfy/static/js/2.3a931138.chunk.js.LICENSE.txt",
+    "static/media/gift.svg": "/Wolfy/static/media/gift.2f5b01b9.svg",
+    "static/media/jacket.png": "/Wolfy/static/media/jacket.cc1c5f3d.png",
+    "static/media/jeans.png": "/Wolfy/static/media/jeans.03ddb98b.png",
+    "static/media/pullover.png": "/Wolfy/static/media/pullover.145deff6.png",
+    "static/media/shoes.png": "/Wolfy/static/media/shoes.188889f1.png",
+    "static/media/suit.png": "/Wolfy/static/media/suit.46c3c443.png",
+    "static/media/towel.png": "/Wolfy/static/media/towel.81c67924.png",
+    "static/media/wolf.svg": "/Wolfy/static/media/wolf.6b046dff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d784a1ee.js",
+    "static/js/2.3a931138.chunk.js",
+    "static/css/main.b3f58e3a.chunk.css",
+    "static/js/main.12aad567.chunk.js"
+  ]
+}
